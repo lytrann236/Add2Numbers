@@ -21,8 +21,9 @@ Dự án tuân thủ khuyến khích tách biệt mã nguồn chính và mã ngu
 ```bash
 git clone [https://github.com/lytrann236/Add2Numbers.git](https://github.com/lytrann236/Add2Numbers.git)
 cd Add2Numbers
-
+```
 ### Bước 2: Chạy các Test Case (Unit Testing)
 Dự án sử dụng Unit Testing để kiểm thử mã nguồn. Bạn chạy lệnh sau để xem quá trình tính toán và kiểm tra kết quả:
 ```bash
 python test_unit.py
+```
